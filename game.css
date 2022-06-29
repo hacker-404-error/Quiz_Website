@@ -74,6 +74,17 @@ body {
 }
 @media screen and (max-width: 768px) {
   .choice-container {
-    min-width: 40rem;
+    min-width: 1vw;
   }
+  #progressBar {
+    margin-bottom: 13vw;
+}
+.choice-container {
+  display: flex;
+  margin-bottom: 4vw;
+  width: 100%;
+  border-radius: 4px;
+  background: rgb(18, 93, 255);
+  font-size: 7vw;
+}
 }
