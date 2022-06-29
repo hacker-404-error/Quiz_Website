@@ -25,7 +25,7 @@ h2 {
 
 .container {
   width: 100vw;
-  height: 50vw;
+  height: 100vw;
   display: flex;
   justify-content: center;
   align-items: center;
