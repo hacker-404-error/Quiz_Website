@@ -10,7 +10,6 @@
   padding: 0;
   font-size: 90.5%;
   font-family: "Nova Square", cursive;
-  overflow: hidden;
 }
 
 h1 {
@@ -147,3 +146,17 @@ input::placeholder {
   font-size: 2rem;
   color: rgb(28, 26, 26);
 }
+
+
+/* @media screen and (max-width: 500px) {
+  .container {
+    width: 59vw;
+    height: 190vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    max-width: 42rem;
+    margin: 0 auto;
+    padding: 0rem;
+}
+} */
